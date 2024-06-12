@@ -26,7 +26,7 @@ def main():
     
     for item in data:
         path = download_video(item['link'], item['order'])
-        convert_video_to_text(path)
+        convert_video_to_text(path, item['order'])
 
 if __name__ == "__main__":
     main()
