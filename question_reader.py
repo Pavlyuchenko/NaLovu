@@ -4,7 +4,7 @@ import json
 import os
 # For image to text conversion
 import pytesseract
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'
 
 # Green color of successfull answer in RGB
 GREEN_RGB = (177, 255, 111)
@@ -134,7 +134,7 @@ def convert_video_to_text(path):
 		# skip 2 seconds
 		count += 2*fps
 		vidcap.set(cv2.CAP_PROP_POS_FRAMES, count)
-
+    
 	# load previous questions
 	with open('questions.json', 'r', encoding='utf-8') as f:
 		if os.stat('questions.json').st_size == 0:
@@ -149,7 +149,9 @@ def convert_video_to_text(path):
 		json.dump(previous_questions, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
-	path = "E:/Data/Programming/NaLovu/epizody/"
-
+	path = "/home/pavlyuchenko/Desktop/NaLovu/epizody/"
+    
 	for file in os.listdir(path):
 		convert_video_to_text(path + file)
+
+
