@@ -39,7 +39,7 @@ def is_green(rgb, threshold=30):
     return within_red_range and within_green_range and within_blue_range
 
 
-test = 1
+test = 0
 
 
 def frame_to_text(image, START_POSITION, END_POSITION, order, which):
@@ -50,7 +50,7 @@ def frame_to_text(image, START_POSITION, END_POSITION, order, which):
     ]
 
     # save image to file
-    cv2.imwrite(f"/home/pavlyuchenko/Desktop/NaLovu/snapshots/snap_{order}_{which}.jpg", rectange)
+    cv2.imwrite(f"/home/pavlyuchenko/Desktop/NaLovu/snapshots/snap_{order}_{test}_{which}.jpg", rectange)
 
     # only keep white or black pixels that are likely to be text
     for i in range(rectange.shape[0]):
@@ -111,6 +111,7 @@ def perform_ocr(image, correct_answer, order):
     """
     Performs OCR using pytesseract
     """
+    global test
 
     # rectangle positions of question and answers
     START_QUESTION_POSITION = (330, 820)
@@ -121,7 +122,8 @@ def perform_ocr(image, correct_answer, order):
     END_ANSWER_B_POSITION = (1170, 1010)
     START_ANSWER_C_POSITION = (1220, 960)
     END_ANSWER_C_POSITION = (1590, 1010)
-
+    
+    test += 1
     question_text = frame_to_text(
         image, START_QUESTION_POSITION, END_QUESTION_POSITION, order, "S"
     )
@@ -141,6 +143,7 @@ def perform_ocr(image, correct_answer, order):
         "answer_b": answer_b_text,
         "answer_c": answer_c_text,
         "correct_answer": correct_answer,
+        "snapshot": f"snap_{order}_{test}.jpg",
     }
 
 
