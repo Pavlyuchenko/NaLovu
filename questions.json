@@ -49,9 +49,9 @@
     },
     {
         "question": "Kolik procent obyvatel planety Země jsou dle dat z přelomu let 2023 a 2024 Číňané?",
-        "answer_a": "asi75%",
-        "answer_b": "asil75%",
-        "answer_c": "asi275%",
+        "answer_a": "asi 7,5%",
+        "answer_b": "asi 17,5%",
+        "answer_c": "asi 27,5%",
         "correct_answer": 1,
         "snapshot": "snap_77_8.jpg"
     },
