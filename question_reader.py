@@ -50,7 +50,7 @@ def frame_to_text(image, START_POSITION, END_POSITION, order, which):
     ]
 
     # save image to file
-    cv2.imwrite(f"/snapshots/snap_{order}_{which}.jpg", rectange)
+    cv2.imwrite(f"/home/pavlyuchenko/Desktop/NaLovu/snapshots/snap_{order}_{which}.jpg", rectange)
 
     # only keep white or black pixels that are likely to be text
     for i in range(rectange.shape[0]):
