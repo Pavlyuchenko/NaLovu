@@ -198,5 +198,205 @@
         "answer_c": "Matt Damon",
         "correct_answer": 0,
         "snapshot": "snap_77_27.jpg"
+    },
+    {
+        "question": "Kterou řeku má v názvu město Kladruby, známé národním hřebčínem?",
+        "answer_a": "Doubravu",
+        "answer_b": "Labe",
+        "answer_c": "Bečvu",
+        "correct_answer": 1,
+        "snapshot": "snap_67_1.jpg"
+    },
+    {
+        "question": "Kamil Střihavka nazpíval oficiální hymnu fotbalového klubu:",
+        "answer_a": "FK Teplice",
+        "answer_b": "Viktoria Plzeň",
+        "answer_c": "Baník Ostrava",
+        "correct_answer": 0,
+        "snapshot": "snap_67_2.jpg"
+    },
+    {
+        "question": "Kolik má zdravý člověk v těle kostí zvaných „čéška '?",
+        "answer_a": "jednu",
+        "answer_b": "dvě",
+        "answer_c": "čtyři",
+        "correct_answer": 1,
+        "snapshot": "snap_67_3.jpg"
+    },
+    {
+        "question": "Básník Jiří Wolker zemřel na kterou nemoc?",
+        "answer_a": "neštovice",
+        "answer_b": "syfilidu",
+        "answer_c": "tuberkulózu",
+        "correct_answer": 2,
+        "snapshot": "snap_67_4.jpg"
+    },
+    {
+        "question": "Která Offenbachova opereta pojednává o sličné Řekyni, kvůli níž se strhla válka?",
+        "answer_a": "Krásná Helena",
+        "answer_b": "Krásná Bateia",
+        "answer_c": "Krásná Afrodita",
+        "correct_answer": 0,
+        "snapshot": "snap_67_5.jpg"
+    },
+    {
+        "question": "Které povolání měla manželka Paula McCartneyho Linda, když se s ní hudebník seznámil?",
+        "answer_a": "prodavačka",
+        "answer_b": "zdravotní sestra",
+        "answer_c": "fotografka",
+        "correct_answer": 2,
+        "snapshot": "snap_67_6.jpg"
+    },
+    {
+        "question": "Jana Preissová má ve filmu „Jak vytrhnout velrybě stoličku“ které povolání?",
+        "answer_a": "kuchařka",
+        "answer_b": "učitelka",
+        "answer_c": "baletka",
+        "correct_answer": 2,
+        "snapshot": "snap_67_7.jpg"
+    },
+    {
+        "question": "Která z těchto celebrit je nejmladší?",
+        "answer_a": "Angelina Jolie",
+        "answer_b": "Salma Hayek",
+        "answer_c": "Jennifer Aniston",
+        "correct_answer": 1,
+        "snapshot": "snap_67_9.jpg"
+    },
+    {
+        "question": "Pokud chceme recyklovat lahev z čirého skla a k dispozici máme pouze zelený kontejner, tak ji umístíme:",
+        "answer_a": "do zeleného kontejneru |",
+        "answer_b": "vedle zeleného kontejneru",
+        "answer_c": "do směsného odpadu",
+        "correct_answer": 0,
+        "snapshot": "snap_67_10.jpg"
+    },
+    {
+        "question": "Studiu hmyzu se věnuje který vědní obor?",
+        "answer_a": "entomologie",
+        "answer_b": "etymologie",
+        "answer_c": "etologie",
+        "correct_answer": 0,
+        "snapshot": "snap_67_11.jpg"
+    },
+    {
+        "question": "Spisovatel Arthur Kailey nenapsal román s českým názvem:",
+        "answer_a": "Hotel",
+        "answer_b": "Letiště",
+        "answer_c": "Nemocnice",
+        "correct_answer": 2,
+        "snapshot": "snap_67_12.jpg"
+    },
+    {
+        "question": "Která z těchto armádních hodností se neřadí mezi důstojnické?",
+        "answer_a": "poručík",
+        "answer_b": "praporčík",
+        "answer_c": "plukovník",
+        "correct_answer": 1,
+        "snapshot": "snap_67_13.jpg"
+    },
+    {
+        "question": "Okrasná tráva sametovka se jinak nazývá též:",
+        "answer_a": "hadí ocásek",
+        "answer_b": "myší ocásek",
+        "answer_c": "zaječí ocásek",
+        "correct_answer": 2,
+        "snapshot": "snap_67_14.jpg"
+    },
+    {
+        "question": "Pohoří Pyreneje zasahuje na území kolika států?",
+        "answer_a": "tří",
+        "answer_b": "čtví",
+        "answer_c": "šesti",
+        "correct_answer": 0,
+        "snapshot": "snap_67_15.jpg"
+    },
+    {
+        "question": "Vandalové byli kmen:",
+        "answer_a": "Vikingů",
+        "answer_b": "Germánů",
+        "answer_c": "Keltů",
+        "correct_answer": 1,
+        "snapshot": "snap_67_16.jpg"
+    },
+    {
+        "question": "Čo znamená výraz „kaštan“ v hantýrce řidičů MHD?",
+        "answer_a": "cestující",
+        "answer_b": "volant",
+        "answer_c": "zařízení na štípání lístků",
+        "correct_answer": 0,
+        "snapshot": "snap_67_17.jpg"
+    },
+    {
+        "question": "Album „Bludička“ vydala která zpěvačka?",
+        "answer_a": "Marie Rottrová",
+        "answer_b": "Hana Zagorová",
+        "answer_c": "Helena Vondráčková",
+        "correct_answer": 1,
+        "snapshot": "snap_67_18.jpg"
+    },
+    {
+        "question": "Jako univerzální příjemce je označována která krevní skupina?",
+        "answer_a": "skupina AB",
+        "answer_b": "skupina B",
+        "answer_c": "skupina 0",
+        "correct_answer": 0,
+        "snapshot": "snap_67_19.jpg"
+    },
+    {
+        "question": "Ferdinand de Lesseps se proslavil zbudováním které stavby?",
+        "answer_a": "Eurotunelu",
+        "answer_b": "Suezského průplavu",
+        "answer_c": "sochy Svobody",
+        "correct_answer": 1,
+        "snapshot": "snap_67_20.jpg"
+    },
+    {
+        "question": "Originál písně „Boty proti lásce“ nazpívala zpěvačka:",
+        "answer_a": "Nancy Sinatra",
+        "answer_b": "Dolly Parton",
+        "answer_c": "Cher",
+        "correct_answer": 0,
+        "snapshot": "snap_67_21.jpg"
+    },
+    {
+        "question": "Která z těchto zemí má nejméně obyvatel?",
+        "answer_a": "Itálie",
+        "answer_b": "Turecko",
+        "answer_c": "Kanada",
+        "correct_answer": 2,
+        "snapshot": "snap_67_22.jpg"
+    },
+    {
+        "question": "Džáhacu je japonský výraz označující lidi, již se dobrovolně rozhodli ke kterému neobvyklému kroku?",
+        "answer_a": "zmizet beze stopy",
+        "answer_b": "změnit si pohlaví",
+        "answer_c": "žít v celibátu",
+        "correct_answer": 0,
+        "snapshot": "snap_67_23.jpg"
+    },
+    {
+        "question": "Přezdívku „Nelétající Holanďan“ si kvůli svému strachu z létání vysloužil bývalý fotbalista:",
+        "answer_a": "Ruud van Nistelrooy",
+        "answer_b": "Dennis Bergkamp",
+        "answer_c": "Edwin van der Sar",
+        "correct_answer": 1,
+        "snapshot": "snap_67_24.jpg"
+    },
+    {
+        "question": "Které tvrzení o oparu je jediné pravdivé?",
+        "answer_a": "děti jím nemohou onemocnět",
+        "answer_b": "onemocnění je bakteriální",
+        "answer_c": "onemocnění je virové",
+        "correct_answer": 2,
+        "snapshot": "snap_67_25.jpg"
+    },
+    {
+        "question": "Velké sídliště na východě Pardubic se nazývá:",
+        "answer_a": "Dubina",
+        "answer_b": "Bučina",
+        "answer_c": "Olšina",
+        "correct_answer": 0,
+        "snapshot": "snap_67_26.jpg"
     }
 ]
