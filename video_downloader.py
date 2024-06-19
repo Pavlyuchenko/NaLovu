@@ -3,6 +3,7 @@ import pprint
 from url_scraper import get_episode_URLs
 from question_reader import convert_video_to_text
 import os
+import subprocess
 
 def download_video(url, order):
     options = {
@@ -27,6 +28,10 @@ def main():
     # for item in data:
     path = download_video(data[0]['link'], data[0]['order'])
     convert_video_to_text(path, data[0]['order'])
+
+    os.remove(path)
+    subprocess.call(['sh', '/home/pavlyuchenko/Desktop/NaLovu/git.sh'])
+
 
 if __name__ == "__main__":
     main()
