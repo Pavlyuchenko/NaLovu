@@ -3,7 +3,6 @@ import pprint
 from url_scraper import get_episode_URLs
 from question_reader import convert_video_to_text
 import os
-import subprocess
 
 def download_video(url, order):
     options = {
@@ -24,14 +23,12 @@ def main():
     #    if (os.getcwd() + f'/home/pavlyuchenko/Desktop/NaLovu/epizody/{item["order"]}.mp4').split('/')[-1] in os.listdir('/home/pavlyuchenko/Desktop/NaLovu/epizody/'):
     #        data.remove(item)
 
-    
+
     # for item in data:
     path = download_video(data[0]['link'], data[0]['order'])
     convert_video_to_text(path, data[0]['order'])
 
     os.remove(path)
-    subprocess.call(['sh', '/home/pavlyuchenko/Desktop/NaLovu/git.sh'])
-
 
 if __name__ == "__main__":
     main()
