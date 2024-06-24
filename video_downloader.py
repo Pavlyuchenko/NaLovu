@@ -22,7 +22,7 @@ def main():
     for item in data:
         if (os.getcwd() + f'/home/pavlyuchenko/Desktop/NaLovu/epizody/{item["order"]}.mp4').split('/')[-1] in os.listdir('/home/pavlyuchenko/Desktop/NaLovu/epizody/'):
             print(item)
-            print(os.getcwd() + f'/home/pavlyuchenko/Desktop/NaLovu/epizody/{item["order"]}.mp4').split('/')[-1])
+            print(os.getcwd() + f'/home/pavlyuchenko/Desktop/NaLovu/epizody/{item["order"]}.mp4').split('/')[-1]))
             print(os.listdir('/home/pavlyuchenko/Desktop/NaLovu/epizody/'))
             print("----")
             
