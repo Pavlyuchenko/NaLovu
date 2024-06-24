@@ -17,15 +17,14 @@ def download_video(url, order):
 
 def main():
     data = get_episode_URLs()
+    print("data" + data)
 
     # remove all items whose order already exists in /epizody/{order}.mp4
     for item in data:
+        print((os.getcwd() + f'/home/pavlyuchenko/Desktop/NaLovu/epizody/{item["order"]}.mp4').split('/')[-1])
+        print(os.listdir('/home/pavlyuchenko/Desktop/NaLovu/epizody/')) 
+        print("----")
         if (os.getcwd() + f'/home/pavlyuchenko/Desktop/NaLovu/epizody/{item["order"]}.mp4').split('/')[-1] in os.listdir('/home/pavlyuchenko/Desktop/NaLovu/epizody/'):
-            print(item)
-            print(os.getcwd() + f'/home/pavlyuchenko/Desktop/NaLovu/epizody/{item["order"]}.mp4').split('/')[-1]))
-            print(os.listdir('/home/pavlyuchenko/Desktop/NaLovu/epizody/'))
-            print("----")
-            
             data.remove(item)
 
 
