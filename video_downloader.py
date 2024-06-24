@@ -19,9 +19,9 @@ def main():
     data = get_episode_URLs()
 
     # remove all items whose order already exists in /epizody/{order}.mp4
-    # for item in data:
-    #    if (os.getcwd() + f'/home/pavlyuchenko/Desktop/NaLovu/epizody/{item["order"]}.mp4').split('/')[-1] in os.listdir('/home/pavlyuchenko/Desktop/NaLovu/epizody/'):
-    #        data.remove(item)
+    for item in data:
+        if (os.getcwd() + f'/home/pavlyuchenko/Desktop/NaLovu/epizody/{item["order"]}.mp4').split('/')[-1] in os.listdir('/home/pavlyuchenko/Desktop/NaLovu/epizody/'):
+            data.remove(item)
 
 
     for item in data:
