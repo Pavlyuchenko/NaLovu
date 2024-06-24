@@ -774,5 +774,549 @@
         "answer_c": "Motórhead",
         "correct_answer": 0,
         "snapshot": "snap_87_49.jpg"
+    },
+    {
+        "question": "Vítězství v celkovém hodnocení Světového poháru v biatlonu v sezoně 2019/2020 obhájila:",
+        "answer_a": "Dorothea Wiererová",
+        "answer_b": "Tiril Eckhoffová",
+        "answer_c": "Kaisa Mákáráinenová",
+        "correct_answer": 0,
+        "snapshot": "snap_85_1.jpg"
+    },
+    {
+        "question": "Podle vědců na Uranu a Neptunu prší velmi neobvykle. Jak?",
+        "answer_a": "Prší tam drobné kamínky.",
+        "answer_b": "Helium působí obrácený déšť.",
+        "answer_c": "Prší tam diamanty.",
+        "correct_answer": 2,
+        "snapshot": "snap_85_2.jpg"
+    },
+    {
+        "question": "V muzikálu West Side Story proti sobě stojí místní proti přistěhovalcům...",
+        "answer_a": "z Haiti",
+        "answer_b": "z Portorika",
+        "answer_c": "z Jamajky",
+        "correct_answer": 1,
+        "snapshot": "snap_85_3.jpg"
+    },
+    {
+        "question": "Klárův ústav byl založen na Malé Straně v Praze Aloisem Klárem a sloužil především pro lidi...",
+        "answer_a": "se zrakovým postižením",
+        "answer_b": "se sluchovým postižením",
+        "answer_c": "s tělesným postižením",
+        "correct_answer": 0,
+        "snapshot": "snap_85_4.jpg"
+    },
+    {
+        "question": "Věznice nacházející se asi 2 km od Jičína leží v obcí...",
+        "answer_a": "Valdice",
+        "answer_b": "Heřmanice",
+        "answer_c": "Vinařice",
+        "correct_answer": 0,
+        "snapshot": "snap_85_5.jpg"
+    },
+    {
+        "question": "Kde studoval budoucí vůdce KLDR Kim Čong-un vletech 1993 až 1998?",
+        "answer_a": "v Paříži",
+        "answer_b": "v Oxfordu",
+        "answer_c": "v Bernu",
+        "correct_answer": 2,
+        "snapshot": "snap_85_6.jpg"
+    },
+    {
+        "question": "Jak se jmenuje třetí nejvyšší hora na světě?",
+        "answer_a": "Kančendženga",
+        "answer_b": "Orodruiná",
+        "answer_c": "Vinson Massif",
+        "correct_answer": 0,
+        "snapshot": "snap_85_7.jpg"
+    },
+    {
+        "question": "Sviňucha obecná je druh:",
+        "answer_a": "kytovce",
+        "answer_b": "hmyzu",
+        "answer_c": "ptáka",
+        "correct_answer": 0,
+        "snapshot": "snap_85_8.jpg"
+    },
+    {
+        "question": "Proč nemůže britská královská rodina hrát Monopoly?",
+        "answer_a": "podle královny jsou zvrácené",
+        "answer_b": "",
+        "answer_c": "rodina má nemovitostí až moc",
+        "correct_answer": 0,
+        "snapshot": "snap_85_9.jpg"
+    },
+    {
+        "question": "Čo již není od roku 2018 součástí povinné výbavy automobilů?",
+        "answer_a": "reflexní vesta",
+        "answer_b": "trojúhelník",
+        "answer_c": "sada pojistek a žárovek",
+        "correct_answer": 2,
+        "snapshot": "snap_85_10.jpg"
+    },
+    {
+        "question": "Jak si říká zpěvák, kterého proslavila stejnojmenná píseň k filmu Nekonečný příběh?",
+        "answer_a": "Falco",
+        "answer_b": "Bono",
+        "answer_c": "limahl",
+        "correct_answer": 2,
+        "snapshot": "snap_85_11.jpg"
+    },
+    {
+        "question": "Ve kterém letadle vzlétl první český letec Jan Kašpar ke svému nejslavnějšímu letu z Pardubic do Prahy?",
+        "answer_a": "Blériot",
+        "answer_b": "hvia",
+        "answer_c": "vlastní výroby",
+        "correct_answer": 0,
+        "snapshot": "snap_85_12.jpg"
+    },
+    {
+        "question": "Pod kterým názvem bylo známé newyorské letiště před tím, než dostalo jméno po prezidentu Kennedym?",
+        "answer_a": "Stapleton",
+        "answer_b": "Heatrow",
+        "answer_c": "Idlewild",
+        "correct_answer": 2,
+        "snapshot": "snap_85_13.jpg"
+    },
+    {
+        "question": "Kdo je na pobřeží v titulu knihy japonského autora Harukiho Murakamiho?",
+        "answer_a": "Neruda",
+        "answer_b": "Kafka",
+        "answer_c": "Čapek",
+        "correct_answer": 1,
+        "snapshot": "snap_85_14.jpg"
+    },
+    {
+        "question": "Který politik si nechal v Praze postavit dům složený z tubusů, jenž je specifický tím, že nemá pravé úhly?",
+        "answer_a": "Lubomír Volný",
+        "answer_b": "Václav Klaus mladší",
+        "answer_c": "Tomio Okamurá",
+        "correct_answer": 2,
+        "snapshot": "snap_85_15.jpg"
+    },
+    {
+        "question": "Ve filmu Ducháček to zařídí mluví Vlasta Burian o palmárním účtu. Komu jsou na něj posílány honoráře?",
+        "answer_a": "advokátům",
+        "answer_b": "lékařům",
+        "answer_c": "zpěvákům",
+        "correct_answer": 0,
+        "snapshot": "snap_85_16.jpg"
+    },
+    {
+        "question": "Které zvíře najdeme v městském znaku Liberce?",
+        "answer_a": "zlatého |vá",
+        "answer_b": "bílého tygra",
+        "answer_c": "černého koně",
+        "correct_answer": 1,
+        "snapshot": "snap_85_18.jpg"
+    },
+    {
+        "question": "Jako první Čech přeletěl v roce 1928 na vzducholodi severní pól fyzik a spisovatel František:",
+        "answer_a": "střeleček",
+        "answer_b": "skokánek",
+        "answer_c": "Běhounek",
+        "correct_answer": 2,
+        "snapshot": "snap_85_19.jpg"
+    },
+    {
+        "question": "Čo je to lapis lazuli?",
+        "answer_a": "výtvarná technika",
+        "answer_b": "horská květina",
+        "answer_c": "drahý kámen",
+        "correct_answer": 2,
+        "snapshot": "snap_85_20.jpg"
+    },
+    {
+        "question": "Obec Hnojník na Frýdecko-Místecku leží na řece, která svým názvem také moc optimismu nepřidá. Jmenuje se totiž:",
+        "answer_a": "Mrtvičká",
+        "answer_b": "Ivratká",
+        "answer_c": "Stonávka",
+        "correct_answer": 2,
+        "snapshot": "snap_85_21.jpg"
+    },
+    {
+        "question": "Jak se jmenoval student, jehož údajná smrt rezonovala při listopadových událostech v Československu 1989?",
+        "answer_a": "Martin Šmíd",
+        "answer_b": "Tomáš Kolář",
+        "answer_c": "Jan Zajíc",
+        "correct_answer": 0,
+        "snapshot": "snap_85_22.jpg"
+    },
+    {
+        "question": "Jméno dortu Pavlova dala jistá reálná osoba. Která?",
+        "answer_a": "fyziolog Pavlov",
+        "answer_b": "balerína Pavlovová",
+        "answer_c": "cukrářka Pavlovna",
+        "correct_answer": 1,
+        "snapshot": "snap_85_23.jpg"
+    },
+    {
+        "question": "Prezidenta Alberta Fujimoriho měla v čele která jihoamerická země?",
+        "answer_a": "Peru",
+        "answer_b": "Brazílie",
+        "answer_c": "Chile",
+        "correct_answer": 0,
+        "snapshot": "snap_85_24.jpg"
+    },
+    {
+        "question": "Divadelník Antonín Procházka má přezdívku:",
+        "answer_a": "plzeňský Moliére",
+        "answer_b": "pardubický Shakespeare",
+        "answer_c": "zlínský Čapek",
+        "correct_answer": 1,
+        "snapshot": "snap_85_26.jpg"
+    },
+    {
+        "question": "První dvojice otce a syna, která kdy vyhrála mistrovství světa formule 1, má příjmení:",
+        "answer_a": "Verstappen",
+        "answer_b": "",
+        "answer_c": "Schumacher",
+        "correct_answer": 1,
+        "snapshot": "snap_85_27.jpg"
+    },
+    {
+        "question": "Kam byste zařadili živočicha jménem medojed?",
+        "answer_a": "mezi šelmy",
+        "answer_b": "mezi ptáky",
+        "answer_c": "mezi plazy",
+        "correct_answer": 0,
+        "snapshot": "snap_85_28.jpg"
+    },
+    {
+        "question": "Které dva herce svádí Vica Kerekes ve scéné u kulečníku ve filmu „Muži v naději“?",
+        "answer_a": "Vetchého a Donutila",
+        "answer_b": "Macháčka a Polívku",
+        "answer_c": "Dyka a Svěráka",
+        "correct_answer": 1,
+        "snapshot": "snap_80_29.jpg"
+    },
+    {
+        "question": "V hovoru dnešní mládeže znamená označení člověka „random“ že je dotyčný:",
+        "answer_a": "vzdělaný",
+        "answer_b": "mstivý",
+        "answer_c": "zvláštní",
+        "correct_answer": 2,
+        "snapshot": "snap_80_30.jpg"
+    },
+    {
+        "question": "Co chtěla zakázat důchodkyně Věra Pohlová v anketě z roku 1999, protože „tyhle aféry každého jenom otravují“?",
+        "answer_a": "politiky a korupci |",
+        "answer_b": "bulváry a sport",
+        "answer_c": "internety a počítače",
+        "correct_answer": 2,
+        "snapshot": "snap_80_31.jpg"
+    },
+    {
+        "question": "Jak se jmenuje hlavní postava Čapkova románu Krakatit?",
+        "answer_a": "inženýr Prokop",
+        "answer_b": "doktor Vláčel",
+        "answer_c": "profesor Zbořil",
+        "correct_answer": 0,
+        "snapshot": "snap_80_32.jpg"
+    },
+    {
+        "question": "Artyčok pochází z oblasti u kterého moře?",
+        "answer_a": "Baltského",
+        "answer_b": "Arabského",
+        "answer_c": "Středozemního",
+        "correct_answer": 2,
+        "snapshot": "snap_80_33.jpg"
+    },
+    {
+        "question": "„Stud, stud, stud - to jsou dějiny lidstva.“ Kdo je autorem tohoto citátu?",
+        "answer_a": "",
+        "answer_b": "Václav Havel",
+        "answer_c": "Ludvík XIV.",
+        "correct_answer": 0,
+        "snapshot": "snap_80_34.jpg"
+    },
+    {
+        "question": "Literární kritik František Xaver Šalda se narodil ve kterém krajském městě?",
+        "answer_a": "v Líherci",
+        "answer_b": "ve Zlíně",
+        "answer_c": "v Plzní",
+        "correct_answer": 0,
+        "snapshot": "snap_80_35.jpg"
+    },
+    {
+        "question": "Thor Heyerdahl se pokusil přeplavit Atlantik na lodi Z papyru nesoucí jméno kterého boha?",
+        "answer_a": "římského Neptuna",
+        "answer_b": "řeckého Dia",
+        "answer_c": "egyptského Ra",
+        "correct_answer": 2,
+        "snapshot": "snap_80_36.jpg"
+    },
+    {
+        "question": "Vitamín D je také nazýván jako:",
+        "answer_a": "kalciferol",
+        "answer_b": "kyselina mravenčí",
+        "answer_c": "riboflavin",
+        "correct_answer": 0,
+        "snapshot": "snap_80_37.jpg"
+    },
+    {
+        "question": "Které z těchto měst leží nejjižněji?",
+        "answer_a": "Jindřichův Hradec",
+        "answer_b": "Votice",
+        "answer_c": "Tábor",
+        "correct_answer": 0,
+        "snapshot": "snap_80_38.jpg"
+    },
+    {
+        "question": "Držitel Nobelovy ceny Jaroslav Heyrovský byl prastrýcem:",
+        "answer_a": "Ivana Mládka",
+        "answer_b": "Michaela Kocába",
+        "answer_c": "Michala Horáčka",
+        "correct_answer": 2,
+        "snapshot": "snap_80_39.jpg"
+    },
+    {
+        "question": "Miloš Jakeš během projevu na Červeném Hrádku v roce 1989 varoval mimo jiné také před tím, aby komunisté nezůstali jako:",
+        "answer_a": "kůl v plotě",
+        "answer_b": "páté kolo u vozu",
+        "answer_c": "osina V zadku",
+        "correct_answer": 1,
+        "snapshot": "snap_80_41.jpg"
+    },
+    {
+        "question": "Tom Cruise hrál ve filmu „Poslední...“",
+        "answer_a": "Mohykán",
+        "answer_b": "samuraj",
+        "answer_c": "výstřel",
+        "correct_answer": 1,
+        "snapshot": "snap_80_42.jpg"
+    },
+    {
+        "question": "Molekula glukózy obsahuje uhlík, kyslík a který prvek?",
+        "answer_a": "dusík",
+        "answer_b": "draslík",
+        "answer_c": "vodík",
+        "correct_answer": 2,
+        "snapshot": "snap_80_43.jpg"
+    },
+    {
+        "question": "Vladimír Neff je autorem románu jménem:",
+        "answer_a": "Zlá krev",
+        "answer_b": "Zlá předtuchá",
+        "answer_c": "Zlá žena",
+        "correct_answer": 0,
+        "snapshot": "snap_80_44.jpg"
+    },
+    {
+        "question": "Ve které dnešní zemi leží komplex „Vlčí doupě“ proslulý neúspěšným atentátem na Adolfa Hitlera?",
+        "answer_a": "v Polsku",
+        "answer_b": "v Rakousku",
+        "answer_c": "v Německu",
+        "correct_answer": 0,
+        "snapshot": "snap_80_45.jpg"
+    },
+    {
+        "question": "Z čeho se vyrábí pasta tahini?",
+        "answer_a": "z Gizrny",
+        "answer_b": "Ze Sezamu",
+        "answer_c": "Z arašídů",
+        "correct_answer": 1,
+        "snapshot": "snap_80_46.jpg"
+    },
+    {
+        "question": "Podtitulem české filmové komedie „Czech Made Man“ zraku 2011 je „S poctivostí...“",
+        "answer_a": "dál doskáčeš",
+        "answer_b": "nejdál dojdeš",
+        "answer_c": "leda pojdeš",
+        "correct_answer": 2,
+        "snapshot": "snap_80_47.jpg"
+    },
+    {
+        "question": "Velká Morava vznikla roku 833 spojením dvou knížectví — Moravského a:",
+        "answer_a": "Nitranského",
+        "answer_b": "Trnavského",
+        "answer_c": "Popradského",
+        "correct_answer": 0,
+        "snapshot": "snap_80_48.jpg"
+    },
+    {
+        "question": "Psi kterého plemene byli oblíbeným mazlíčkem královny Alžběty II.?",
+        "answer_a": "west highland white teriér",
+        "answer_b": "kooikerhondje",
+        "answer_c": "welsh corgi pembroke",
+        "correct_answer": 2,
+        "snapshot": "snap_80_49.jpg"
+    },
+    {
+        "question": "Ze kterého francouzského regionu pochází sýr camembert?",
+        "answer_a": "z Normandie",
+        "answer_b": "z Korsiky",
+        "answer_c": "z Bretaně",
+        "correct_answer": 0,
+        "snapshot": "snap_80_50.jpg"
+    },
+    {
+        "question": "Ve kterém evropském městě sídlí fotbalový klub, který má v názvu slovo grasshopper, tedy kobylka?",
+        "answer_a": "v Londýně",
+        "answer_b": "v Berlíně",
+        "answer_c": "v Curychu",
+        "correct_answer": 2,
+        "snapshot": "snap_80_51.jpg"
+    },
+    {
+        "question": "Rozsáhlý epos „Kalevala“ shrnuje bájné příběhy kterého národa?",
+        "answer_a": "Apačů",
+        "answer_b": "Finů",
+        "answer_c": "Makedonců",
+        "correct_answer": 1,
+        "snapshot": "snap_80_52.jpg"
+    },
+    {
+        "question": "Za upoutávku na známý film dostala TY Nova v roce 2002 prestižní ocenění. Co se tehdy ve spotu na Vltavě objevilo?",
+        "answer_a": "parník Titanic",
+        "answer_b": "žralok z Čelistí",
+        "answer_c": "ponorka kapitána Nema",
+        "correct_answer": 0,
+        "snapshot": "snap_78_53.jpg"
+    },
+    {
+        "question": "Cyklostezky propojující jižní Moravu a Část Dolního Rakouska se podle šlechtického rodu jmenují:",
+        "answer_a": "Habsburské",
+        "answer_b": "Lichtenštejnské",
+        "answer_c": "Přemyslovské",
+        "correct_answer": 1,
+        "snapshot": "snap_78_54.jpg"
+    },
+    {
+        "question": "Symbolem základní měnové jednotky Jižní Korey je dvakrát přeškrtnuté písmeno:",
+        "answer_a": "",
+        "answer_b": "",
+        "answer_c": "",
+        "correct_answer": 2,
+        "snapshot": "snap_78_55.jpg"
+    },
+    {
+        "question": "Na co čtenáře upozorňuje zkratka (sic) nebo také (sic!) v textu?",
+        "answer_a": "jedná se o citaci, ne chybu",
+        "answer_b": "jedná se o domněnku",
+        "answer_c": "pisatel to považuje za nesmysl",
+        "correct_answer": 0,
+        "snapshot": "snap_78_56.jpg"
+    },
+    {
+        "question": "Ararat je nejvyšší horou:",
+        "answer_a": "Turecka",
+        "answer_b": "Sýrie",
+        "answer_c": "Iránu",
+        "correct_answer": 0,
+        "snapshot": "snap_78_57.jpg"
+    },
+    {
+        "question": "Jak se jmenoval první muzikál, pro který skládal hudbu Karel Svoboda?",
+        "answer_a": "Noc na Karlštejně  |",
+        "answer_b": "Carmen",
+        "answer_c": "Starci na chmelu",
+        "correct_answer": 0,
+        "snapshot": "snap_78_58.jpg"
+    },
+    {
+        "question": "Jak se nazývá stadion fotbalového klubu FK Jablonec?",
+        "answer_a": "lolíček",
+        "answer_b": "U Nisy",
+        "answer_c": "Střelnice",
+        "correct_answer": 2,
+        "snapshot": "snap_78_59.jpg"
+    },
+    {
+        "question": "Pátý díl animovaného seriálu „Říkání o víle Amálce“ se jmenuje „Jak se udělala...",
+        "answer_a": "oříškem",
+        "answer_b": "ježečkem",
+        "answer_c": "ptáčkem",
+        "correct_answer": 2,
+        "snapshot": "snap_78_60.jpg"
+    },
+    {
+        "question": "Která z uvedených drog se nevyrábí z konopí?",
+        "answer_a": "hašiš",
+        "answer_b": "kokain",
+        "answer_c": "marihuana",
+        "correct_answer": 1,
+        "snapshot": "snap_78_61.jpg"
+    },
+    {
+        "question": "stát Rwanda vyhlásil v 60. letech minulého století nezávislost na které zemi?",
+        "answer_a": "na Belgii",
+        "answer_b": "na Španělsku",
+        "answer_c": "na Německu",
+        "correct_answer": 1,
+        "snapshot": "snap_78_63.jpg"
+    },
+    {
+        "question": "Některá pražská náměstí se v minulosti jmenovala podle trhů, jež se na nich konaly. Které náměstí se tak jmenuje dodnes?",
+        "answer_a": "Dobytčí trh",
+        "answer_b": "Ovocný trh",
+        "answer_c": "Zelný trh",
+        "correct_answer": 2,
+        "snapshot": "snap_78_65.jpg"
+    },
+    {
+        "question": "Doktorka Milada Horáková byla poslankyní za Československou...",
+        "answer_a": "stranu národně socialistickou",
+        "answer_b": "sociální demakracii",
+        "answer_c": "stranu lidovou",
+        "correct_answer": 0,
+        "snapshot": "snap_78_66.jpg"
+    },
+    {
+        "question": "Španělský měsíčník o fotbale se jmenuje:",
+        "answer_a": "Nedved",
+        "answer_b": "Panenka",
+        "answer_c": "Limbersky",
+        "correct_answer": 2,
+        "snapshot": "snap_78_68.jpg"
+    },
+    {
+        "question": "V důsledku takzvané vegetační inverze najdeme v nižších lokalitách Moravského krasu rostliny:",
+        "answer_a": "známé z horského prostředí",
+        "answer_b": "kvetoucí v zimě",
+        "answer_c": "",
+        "correct_answer": 0,
+        "snapshot": "snap_78_69.jpg"
+    },
+    {
+        "question": "Americká filmová herečka a modelka Marilyn Monroe se dožila kolika let?",
+        "answer_a": "36 let",
+        "answer_b": "49 let",
+        "answer_c": "64 let",
+        "correct_answer": 0,
+        "snapshot": "snap_78_70.jpg"
+    },
+    {
+        "question": "Jaká část plochy české vlajky je zamalovaná modrou barvou?",
+        "answer_a": "jedna čtvrtina",
+        "answer_b": "jedna třetina",
+        "answer_c": "jedna polovina",
+        "correct_answer": 1,
+        "snapshot": "snap_78_72.jpg"
+    },
+    {
+        "question": "Který z těchto druhů tasemnice je smyšlený?",
+        "answer_a": "tasemnice dlouhočlenná",
+        "answer_b": "tasemnice bezbranná",
+        "answer_c": "tasemnice pohostinná",
+        "correct_answer": 2,
+        "snapshot": "snap_78_73.jpg"
+    },
+    {
+        "question": "Který z následujících záporáků si nejčastěji obléká dámské šaty?",
+        "answer_a": "Norman Bates",
+        "answer_b": "Freddy Krueger",
+        "answer_c": "Jason Voorhees",
+        "correct_answer": 0,
+        "snapshot": "snap_78_74.jpg"
+    },
+    {
+        "question": "S kutálkou se s největší pravděpodobností setkáme:",
+        "answer_a": "",
+        "answer_b": "na fotbalovém hřišti",
+        "answer_c": "v hlubinném dole",
+        "correct_answer": 0,
+        "snapshot": "snap_78_75.jpg"
     }
 ]
