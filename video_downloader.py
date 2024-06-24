@@ -24,9 +24,9 @@ def main():
     #        data.remove(item)
 
 
-    # for item in data:
-    path = download_video(data[0]['link'], data[0]['order'])
-    convert_video_to_text(path, data[0]['order'])
+    for item in data:
+        path = download_video(item['link'], item['order'])
+        convert_video_to_text(path, item['order'])
 
     os.remove(path)
 
