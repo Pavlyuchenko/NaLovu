@@ -1318,5 +1318,989 @@
         "answer_c": "v hlubinném dole",
         "correct_answer": 0,
         "snapshot": "snap_78_75.jpg"
+    },
+    {
+        "question": "Která z uvedených osobností se mohla teoreticky potkat jak s buditelem Františkem Palackým, tak s hercem Ivanem Trojanem?",
+        "answer_a": "Edvard Beneš",
+        "answer_b": "Winston Churchil|",
+        "answer_c": "Matka Tereza",
+        "correct_answer": 2,
+        "snapshot": "snap_98_2.jpg"
+    },
+    {
+        "question": "Která píseň skupiny Chinaski začíná: \"Ná nanananananananananána, ná nananananananananánáná ááá\"“?",
+        "answer_a": "Dobrák od kosti",
+        "answer_b": "Dlouhej kouř",
+        "answer_c": "Klára",
+        "correct_answer": 2,
+        "snapshot": "snap_98_3.jpg"
+    },
+    {
+        "question": "Vasilij Kamockij alias Pelmeně je šampion v kterém netradičním sportu?",
+        "answer_a": "nošení nákupu potřebným",
+        "answer_b": "skoku přes plot",
+        "answer_c": "fackování",
+        "correct_answer": 2,
+        "snapshot": "snap_98_4.jpg"
+    },
+    {
+        "question": "Které z našich pohoří neslo v minulosti keltský název Gabreta, tedy Pohoří kozorožců?",
+        "answer_a": "Jeseníky",
+        "answer_b": "Beskydy",
+        "answer_c": "Šumava",
+        "correct_answer": 2,
+        "snapshot": "snap_98_5.jpg"
+    },
+    {
+        "question": "Olympijský turnaj v házené mužů ovládla v roce 2021 která země?",
+        "answer_a": "Francie",
+        "answer_b": "slovensko",
+        "answer_c": "Katar",
+        "correct_answer": 0,
+        "snapshot": "snap_98_6.jpg"
+    },
+    {
+        "question": "Šachové zahájení, kdy hráč obětuje figuru, aby dosáhl nějaké poziční výhody, se nazývá:",
+        "answer_a": "sicilská obrana",
+        "answer_b": "orangutan",
+        "answer_c": "gambit",
+        "correct_answer": 2,
+        "snapshot": "snap_98_7.jpg"
+    },
+    {
+        "question": "Která ingredience nesmí chybět v druhu rizota zvaném rissoto alla milanese?",
+        "answer_a": "šafrán",
+        "answer_b": "kurkuma",
+        "answer_c": "kardamom",
+        "correct_answer": 0,
+        "snapshot": "snap_98_8.jpg"
+    },
+    {
+        "question": "Které z následujících zvířat je mimo jiné v posledních desetiletích v Austrálii přemnožené?",
+        "answer_a": "srnky",
+        "answer_b": "koaly",
+        "answer_c": "velbloudí",
+        "correct_answer": 2,
+        "snapshot": "snap_98_9.jpg"
+    },
+    {
+        "question": "Jak se nazývá kamenný val vzniklý ledovcovou činností?",
+        "answer_a": "kar",
+        "answer_b": "moréna",
+        "answer_c": "firn",
+        "correct_answer": 2,
+        "snapshot": "snap_98_11.jpg"
+    },
+    {
+        "question": "Který typ květenství tvoří bříza bělokorá?",
+        "answer_a": "lata",
+        "answer_b": "hrozen",
+        "answer_c": "jehněda",
+        "correct_answer": 2,
+        "snapshot": "snap_98_12.jpg"
+    },
+    {
+        "question": "Ze kterého města vyrazil pan Fogg v románu Julese Verna na cestu kolem světa?",
+        "answer_a": "z Londýna",
+        "answer_b": "z Paříže",
+        "answer_c": "z New Yorku",
+        "correct_answer": 1,
+        "snapshot": "snap_98_14.jpg"
+    },
+    {
+        "question": "Kdo z uvedených nepatří do britské komediální skupiny Monty Python?",
+        "answer_a": "John (leese",
+        "answer_b": "Rowan Atkinson",
+        "answer_c": "Terry Gilliam",
+        "correct_answer": 1,
+        "snapshot": "snap_98_15.jpg"
+    },
+    {
+        "question": "Kombinace kterého mléka je základem pro výrobu sýru feta?",
+        "answer_a": "ovčího a kozího",
+        "answer_b": "ovčího a kravského",
+        "answer_c": "kravského a kozího",
+        "correct_answer": 1,
+        "snapshot": "snap_98_17.jpg"
+    },
+    {
+        "question": "Prvním pražským arcibiskupem se v roce 1344 stal:",
+        "answer_a": "Arnošt z Pardubic",
+        "answer_b": "Mbrecht z Hradce",
+        "answer_c": "Adam z Chrudimi",
+        "correct_answer": 0,
+        "snapshot": "snap_98_18.jpg"
+    },
+    {
+        "question": "Mají krávy kamarádky?",
+        "answer_a": "Ano a bez nich trpí.",
+        "answer_b": "Ne.",
+        "answer_c": "Jen když se nechová jak kráva.",
+        "correct_answer": 0,
+        "snapshot": "snap_98_19.jpg"
+    },
+    {
+        "question": "Hells Bells, Thunderstruck či Girls Got Rhytm jsou hity kapely:",
+        "answer_a": "Judas Priest",
+        "answer_b": "Def Leppard",
+        "answer_c": "AG/DC",
+        "correct_answer": 2,
+        "snapshot": "snap_98_20.jpg"
+    },
+    {
+        "question": "Kdo je od roku 2014 generálním tajemníkem NATO?",
+        "answer_a": "Anders Rasmussen",
+        "answer_b": "Jens Stoltenberg",
+        "answer_c": "António Guterres",
+        "correct_answer": 1,
+        "snapshot": "snap_98_21.jpg"
+    },
+    {
+        "question": "Kolik obrazů čítá Slovanská epopej?",
+        "answer_a": "20 obrazů",
+        "answer_b": "10 obrazů",
+        "answer_c": "5 obrazů",
+        "correct_answer": 0,
+        "snapshot": "snap_98_22.jpg"
+    },
+    {
+        "question": "Jak se říká houbě s českým názvem lesklokorka lesklá?",
+        "answer_a": "reishi",
+        "answer_b": "taichi",
+        "answer_c": "raiki",
+        "correct_answer": 0,
+        "snapshot": "snap_98_23.jpg"
+    },
+    {
+        "question": "Za který evropský velkoklub chytala v lednu 2022 česká fotbalová brankářka Bára Votíková?",
+        "answer_a": "Bayern Mnichov",
+        "answer_b": "FG Barcelona",
+        "answer_c": "Paris Saint-Germain",
+        "correct_answer": 2,
+        "snapshot": "snap_98_24.jpg"
+    },
+    {
+        "question": "Pod Mariánským kopcem se nedaleko kláštera Hedeč nachází socha Pozorovatele. Na které město shlíží?",
+        "answer_a": "na Poličku",
+        "answer_b": "na Svitavy",
+        "answer_c": "na Králíky",
+        "correct_answer": 2,
+        "snapshot": "snap_98_25.jpg"
+    },
+    {
+        "question": "Britský atlet Jonathan Edwards v roce 1995 stanovil do dnešního dne platný světový rekord V:",
+        "answer_a": "trojskoku",
+        "answer_b": "skoku o tyči",
+        "answer_c": "skoku do výšky",
+        "correct_answer": 0,
+        "snapshot": "snap_98_26.jpg"
+    },
+    {
+        "question": "Výrazem \"balustráda“ obvykle rozumíme:",
+        "answer_a": "ozdobné zábradlí",
+        "answer_b": "chodníček z přírodního kamene",
+        "answer_c": "most překlenující údolí",
+        "correct_answer": 0,
+        "snapshot": "snap_98_27.jpg"
+    },
+    {
+        "question": "Film Spider-Man: Daleko od domova se natáčel i v České republice. Českými lokacemi tohoto filmu byla města Praha a...",
+        "answer_a": "České Budějovice",
+        "answer_b": "Most",
+        "answer_c": "liberec",
+        "correct_answer": 2,
+        "snapshot": "snap_98_28.jpg"
+    },
+    {
+        "question": "Kdo napsal a ilustroval knihu Zahrada vyprávějící příběh o dobrodružstvích pětice kluků?",
+        "answer_a": "Jiří Trnka",
+        "answer_b": "Zdeněk Miler",
+        "answer_c": "Adolf Born",
+        "correct_answer": 0,
+        "snapshot": "snap_98_29.jpg"
+    },
+    {
+        "question": "Čo je to taipan?",
+        "answer_a": "chutná japonská houba",
+        "answer_b": "judistický chvat",
+        "answer_c": "smrtelně jedovatý had",
+        "correct_answer": 2,
+        "snapshot": "snap_98_30.jpg"
+    },
+    {
+        "question": "Kdo vstřelil rozhodující branku národního týmu ve finále hokejového mistrovství světa v roce 1999?",
+        "answer_a": "Jan Hlaváč",
+        "answer_b": "Robert Reichel",
+        "answer_c": "David Moravec",
+        "correct_answer": 1,
+        "snapshot": "snap_68_32.jpg"
+    },
+    {
+        "question": "Ve kterém městě se nachází katedrála svatého Bartoloměje S nejvyšší kostelní věží u nás?",
+        "answer_a": "v Kutné Hoře",
+        "answer_b": "v Brně",
+        "answer_c": "v Plzní",
+        "correct_answer": 2,
+        "snapshot": "snap_68_33.jpg"
+    },
+    {
+        "question": "Hudební festival Pražské jaro startuje tradičně 12. května. Připomíná se tím den:",
+        "answer_a": "úmrtí Bedřicha Smetany",
+        "answer_b": "narození Antonína Dvořáka",
+        "answer_c": "vzniku České filharmonie",
+        "correct_answer": 0,
+        "snapshot": "snap_68_34.jpg"
+    },
+    {
+        "question": "Které z těchto těstovin jsou nejvíce podobné Špagetám?",
+        "answer_a": "farfalle",
+        "answer_b": "pénné",
+        "answer_c": "linguine",
+        "correct_answer": 2,
+        "snapshot": "snap_68_35.jpg"
+    },
+    {
+        "question": "Renzo Piano, držitel Pritzkerovy ceny, je italský...",
+        "answer_a": "architekt",
+        "answer_b": "novinář",
+        "answer_c": "ladič pian",
+        "correct_answer": 0,
+        "snapshot": "snap_68_36.jpg"
+    },
+    {
+        "question": "Jak se jmenuje kniha Stanislava Rudolfa, ve které se hlavní postava vyrovnává se svou nadváhou?",
+        "answer_a": "0 kilečko míň",
+        "answer_b": "Metráček",
+        "answer_c": "Pusinky",
+        "correct_answer": 1,
+        "snapshot": "snap_68_37.jpg"
+    },
+    {
+        "question": "Kterému alkoholickému nápoji je nejpodobnější jenever?",
+        "answer_a": "brandy",
+        "answer_b": "ginu",
+        "answer_c": "rumu",
+        "correct_answer": 1,
+        "snapshot": "snap_68_38.jpg"
+    },
+    {
+        "question": "Perkuse je lékařské vyšetření...",
+        "answer_a": "poslechem",
+        "answer_b": "pohledem",
+        "answer_c": "poklepem",
+        "correct_answer": 2,
+        "snapshot": "snap_68_39.jpg"
+    },
+    {
+        "question": "Území které současné země pojmenovali Římané výrazem Lusitanie?",
+        "answer_a": "Rumunska",
+        "answer_b": "Rakouska",
+        "answer_c": "Portugalská",
+        "correct_answer": 2,
+        "snapshot": "snap_68_40.jpg"
+    },
+    {
+        "question": "Které zvíře má v Knize džunglí jméno Baghira?",
+        "answer_a": "hnědý medvěd",
+        "answer_b": "zelená opice",
+        "answer_c": "Černý panter",
+        "correct_answer": 2,
+        "snapshot": "snap_68_41.jpg"
+    },
+    {
+        "question": "Kterou část těla si s leknutím zakryje rukama Dagmar Patrasová v Návštěvnících, když je přistižena v místnosti nahá?",
+        "answer_a": "kolená",
+        "answer_b": "břicho",
+        "answer_c": "hlavu",
+        "correct_answer": 2,
+        "snapshot": "snap_68_42.jpg"
+    },
+    {
+        "question": "Na území kterého státu se nachází malebná oblast na seznamu UNESCO, jejíž název v překladu znamená „pět zemí “\"?",
+        "answer_a": "Ruska",
+        "answer_b": "Turecka",
+        "answer_c": "Itálie",
+        "correct_answer": 2,
+        "snapshot": "snap_68_43.jpg"
+    },
+    {
+        "question": "Šulinokaz je:",
+        "answer_a": "sladkovodní ryba",
+        "answer_b": "brněnský feministický občasník",
+        "answer_c": "cizopasná houba",
+        "correct_answer": 0,
+        "snapshot": "snap_68_44.jpg"
+    },
+    {
+        "question": "Která z těchto náboženských postav se narodila jako první?",
+        "answer_a": "Ježíš Kristus",
+        "answer_b": "prorok Mohammed",
+        "answer_c": "Gautáma Buddha",
+        "correct_answer": 2,
+        "snapshot": "snap_68_45.jpg"
+    },
+    {
+        "question": "Antibiotikum penicilin bylo objeveno náhodou jako produkt:",
+        "answer_a": "plísně",
+        "answer_b": "bakterie",
+        "answer_c": "EN",
+        "correct_answer": 0,
+        "snapshot": "snap_68_46.jpg"
+    },
+    {
+        "question": "Kterou podmínku musí splňovat druh ptáka, kterému snese kukačka svoje vejce do jeho hnízda?",
+        "answer_a": "musí být podobné velký",
+        "answer_b": "musí se živit hmyzem",
+        "answer_c": "musí mít výrazně barevná vejce",
+        "correct_answer": 2,
+        "snapshot": "snap_68_48.jpg"
+    },
+    {
+        "question": "Bratr zpěvačky Anety Langerové má křestní jméno, které také nosí ženy. Jmenuje se:",
+        "answer_a": "Marion",
+        "answer_b": "Nikola",
+        "answer_c": "René",
+        "correct_answer": 1,
+        "snapshot": "snap_68_49.jpg"
+    },
+    {
+        "question": "Kde se odehrála poslední velká ofenzíva nacistického Německa na západní frontě?",
+        "answer_a": "v Ardenách",
+        "answer_b": "v Alpách",
+        "answer_c": "v Pyrenejích",
+        "correct_answer": 0,
+        "snapshot": "snap_68_50.jpg"
+    },
+    {
+        "question": "Kterému státu patří Země Františka Josefa, souostroví, na jehož objevení se podíleli i Češi a Moravané?",
+        "answer_a": "Rusku",
+        "answer_b": "svédsku",
+        "answer_c": "Kanadě",
+        "correct_answer": 0,
+        "snapshot": "snap_68_51.jpg"
+    },
+    {
+        "question": "Co podle odborného pojmenování dělají ve spánku lidé, kteří trpí bruxismem?",
+        "answer_a": "neustále se přetáčejí",
+        "answer_b": "skřípou zuby",
+        "answer_c": "vypouští velké množství větrů",
+        "correct_answer": 1,
+        "snapshot": "snap_68_52.jpg"
+    },
+    {
+        "question": "Která herecká dvojice ztvárnila rozdvojenou osobnost hlavní postavy filmu Klub rváčů?",
+        "answer_a": "Johnny Depp a Al Pacino",
+        "answer_b": "Brad Pitt a Edward Norton",
+        "answer_c": "Matt Damon a Ben Affleck",
+        "correct_answer": 1,
+        "snapshot": "snap_68_53.jpg"
+    },
+    {
+        "question": "Kterou ozdobu nosí na krku Havajci, když si nasadí tradiční lei?",
+        "answer_a": "žraločí zuh",
+        "answer_b": "květinový věnec",
+        "answer_c": "perlový náhrdelník",
+        "correct_answer": 1,
+        "snapshot": "snap_68_54.jpg"
+    },
+    {
+        "question": "Která z těchto plodin se do Evropy dostala až po objevení Ameriky Kryštofem Kolumbem?",
+        "answer_a": "kukuřice",
+        "answer_b": "mrkev",
+        "answer_c": "rýže",
+        "correct_answer": 0,
+        "snapshot": "snap_68_55.jpg"
+    },
+    {
+        "question": "Severokorejské mauzoleum Kim Ir-sena a jeho syna se nazývá:",
+        "answer_a": "Palác slunce",
+        "answer_b": "Chrám lásky",
+        "answer_c": "Pomník spravedlnosti",
+        "correct_answer": 0,
+        "snapshot": "snap_97_56.jpg"
+    },
+    {
+        "question": "Ve kterém z těchto filmů hraje Jiří Macháček?",
+        "answer_a": "Šarlatán",
+        "answer_b": "Muži v nadějí",
+        "answer_c": "Díra u Hanušovic",
+        "correct_answer": 1,
+        "snapshot": "snap_97_57.jpg"
+    },
+    {
+        "question": "Co můžete očekávat od pochoutky zvané balut?",
+        "answer_a": "vařené vejce se zárodkem",
+        "answer_b": "ptáče nadívané sarančaty",
+        "answer_c": "shnilé vejce zakopané v zemi",
+        "correct_answer": 0,
+        "snapshot": "snap_97_58.jpg"
+    },
+    {
+        "question": "Která píseň hrála 17. listopadu 2019 současně na rekordních 48 rozhlasových stanicích?",
+        "answer_a": "Jednou budem dál",
+        "answer_b": "Modlitba pro Martu",
+        "answer_c": "Give Peace a Chance",
+        "correct_answer": 1,
+        "snapshot": "snap_97_59.jpg"
+    },
+    {
+        "question": "Ve 13. až 17. století byla v západní Africe dominantní silou říše:",
+        "answer_a": "Malijská",
+        "answer_b": "Kamerunská",
+        "answer_c": "Keňská",
+        "correct_answer": 0,
+        "snapshot": "snap_97_60.jpg"
+    },
+    {
+        "question": "Podle křestního jména císaře Caesara byl mezinárodně pojmenován který měsíc v roce?",
+        "answer_a": "květen",
+        "answer_b": "červen",
+        "answer_c": "Červenec",
+        "correct_answer": 2,
+        "snapshot": "snap_97_61.jpg"
+    },
+    {
+        "question": "Uveďte, který z obrazců je součástí souhvězdí zvaného Velká medvědice.",
+        "answer_a": "Malý vůz",
+        "answer_b": "Velký vůz",
+        "answer_c": "Orion",
+        "correct_answer": 1,
+        "snapshot": "snap_97_62.jpg"
+    },
+    {
+        "question": "Severská bohyně plodnosti Freya vlastní kočár tažený dvěma:",
+        "answer_a": "psy",
+        "answer_b": "kočkami",
+        "answer_c": "soby",
+        "correct_answer": 1,
+        "snapshot": "snap_97_63.jpg"
+    },
+    {
+        "question": "Které povolání vykonával Václav Knop coby nerudný majitel domu v seriálu Hospoda?",
+        "answer_a": "řidiče metra",
+        "answer_b": "tělocvikáře",
+        "answer_c": "policisty",
+        "correct_answer": 2,
+        "snapshot": "snap_97_65.jpg"
+    },
+    {
+        "question": "Čemu se v dobách socialismu přezdívalo „šedý mor“?",
+        "answer_a": "značce jedu na krysy",
+        "answer_b": "",
+        "answer_c": "inspektorům veřejného pořádku",
+        "correct_answer": 2,
+        "snapshot": "snap_97_66.jpg"
+    },
+    {
+        "question": "Kterou technologii používá nejrychlejší vlak na světě?",
+        "answer_a": "tryskový pohon",
+        "answer_b": "magnetickou levitaci",
+        "answer_c": "parní pohon",
+        "correct_answer": 1,
+        "snapshot": "snap_97_67.jpg"
+    },
+    {
+        "question": "Druhá nejvyšší hora světa K2 leží ve kterém pohoří?",
+        "answer_a": "Himaláj",
+        "answer_b": "Hindůkuš",
+        "answer_c": "Karákóram",
+        "correct_answer": 2,
+        "snapshot": "snap_97_68.jpg"
+    },
+    {
+        "question": "Co opěvuje Jitka Molavcová v písničce S textem: \"Pěkně se koulí, nahoru, dolů, sem a tam...",
+        "answer_a": "jojo",
+        "answer_b": "jablko",
+        "answer_c": "oči",
+        "correct_answer": 0,
+        "snapshot": "snap_97_69.jpg"
+    },
+    {
+        "question": "Ze kterého grandslamového turnaje chybí Ivanu Lendlovi titul?",
+        "answer_a": "z French Open",
+        "answer_b": "z U5 Open",
+        "answer_c": "z Wimbledonu",
+        "correct_answer": 2,
+        "snapshot": "snap_97_70.jpg"
+    },
+    {
+        "question": "Slavná pláž Bondi leží ve které zemi?",
+        "answer_a": "ve Španělsku",
+        "answer_b": "v Brazílii",
+        "answer_c": "v Austrálii",
+        "correct_answer": 2,
+        "snapshot": "snap_97_71.jpg"
+    },
+    {
+        "question": "Mary Westmacottová je občasný pseudonym které spisovatelky?",
+        "answer_a": "Joanne K. Rowlingové",
+        "answer_b": "Agathy Christie",
+        "answer_c": "Jane Austenové",
+        "correct_answer": 1,
+        "snapshot": "snap_97_72.jpg"
+    },
+    {
+        "question": "Které povolání vykonával vynálezce elektrického křesla?",
+        "answer_a": "elektrikáře",
+        "answer_b": "zubaře",
+        "answer_c": "učitele",
+        "correct_answer": 1,
+        "snapshot": "snap_97_73.jpg"
+    },
+    {
+        "question": "MOSFET je elektronická součástka a jeden z nejrozšířenějších druhů...",
+        "answer_a": "tranzistoru",
+        "answer_b": "spínače",
+        "answer_c": "kapacitoru",
+        "correct_answer": 0,
+        "snapshot": "snap_97_74.jpg"
+    },
+    {
+        "question": "Která z těchto hereček se narodila v Jihoafrické republice?",
+        "answer_a": "Whoopi Goldbergová",
+        "answer_b": "Charlize Theronová",
+        "answer_c": "Nicole Kidmanová",
+        "correct_answer": 1,
+        "snapshot": "snap_97_75.jpg"
+    },
+    {
+        "question": "Z peří kterého ptáka se vyrábějí profesionální badmintonové míčky?",
+        "answer_a": "rorýse",
+        "answer_b": "husy",
+        "answer_c": "labutě",
+        "correct_answer": 1,
+        "snapshot": "snap_97_76.jpg"
+    },
+    {
+        "question": "Kolik týmů získalo v historii samostatné nejvyšší české fotbalové ligy mistrovský titul?",
+        "answer_a": "pět",
+        "answer_b": "sedm",
+        "answer_c": "deset",
+        "correct_answer": 0,
+        "snapshot": "snap_97_77.jpg"
+    },
+    {
+        "question": "Jak se jmenovala loď, jejíž potopení v Havaně v roce 1898 vedlo k válce mezi Spojenými státy a Spanělskem?",
+        "answer_a": "Arizoná",
+        "answer_b": "Texas",
+        "answer_c": "Maine",
+        "correct_answer": 2,
+        "snapshot": "snap_97_78.jpg"
+    },
+    {
+        "question": "Když je na párty ohlášen \"flair bartending“, co můžete očekávat?",
+        "answer_a": "drinky za akční cenu",
+        "answer_b": "poslední objednávku",
+        "answer_c": "Darmanskou show",
+        "correct_answer": 2,
+        "snapshot": "snap_97_79.jpg"
+    },
+    {
+        "question": "Na které dopravní značce je dítě hrající si s míčem?",
+        "answer_a": "obytná zóna",
+        "answer_b": "stezka pro chodce",
+        "answer_c": "tábořiště pro stany",
+        "correct_answer": 0,
+        "snapshot": "snap_97_80.jpg"
+    },
+    {
+        "question": "Sbírka francouzského prokletého básníka Charlese Baudelairea Malé básně v próze se také nazývá Pařížský...",
+        "answer_a": "spleen",
+        "answer_b": "kleen",
+        "answer_c": "muezeen",
+        "correct_answer": 0,
+        "snapshot": "snap_97_81.jpg"
+    },
+    {
+        "question": "Která z těchto středoamerických zemí leží nejjižně ji?",
+        "answer_a": "Honduras",
+        "answer_b": "Panama",
+        "answer_c": "Nikaragua",
+        "correct_answer": 1,
+        "snapshot": "snap_97_82.jpg"
+    },
+    {
+        "question": "Která kapela vydala v roce 1978 album Marathón?",
+        "answer_a": "úlympic",
+        "answer_b": "Katapult",
+        "answer_c": "Energit",
+        "correct_answer": 1,
+        "snapshot": "snap_97_84.jpg"
+    },
+    {
+        "question": "Kolik let je podle jeho vlastních slov Jakubovi z filmu Samotáři?",
+        "answer_a": "2]",
+        "answer_b": "Jů",
+        "answer_c": "35, ale vypadá mladší",
+        "correct_answer": 1,
+        "snapshot": "snap_67_85.jpg"
+    },
+    {
+        "question": "Který z těchto států USA byl ve své historii královstvím?",
+        "answer_a": "New York",
+        "answer_b": "Kalifornie",
+        "answer_c": "Havaj",
+        "correct_answer": 2,
+        "snapshot": "snap_67_86.jpg"
+    },
+    {
+        "question": "Libanonské národní jídlo tabbouleh je:",
+        "answer_a": "salát",
+        "answer_b": "polévka",
+        "answer_c": "dezert",
+        "correct_answer": 0,
+        "snapshot": "snap_67_87.jpg"
+    },
+    {
+        "question": "Kde vzniká ruská řeka Něva?",
+        "answer_a": "pramenem na Urale",
+        "answer_b": "",
+        "answer_c": "vytéká z Ladožského jezera",
+        "correct_answer": 2,
+        "snapshot": "snap_67_88.jpg"
+    },
+    {
+        "question": "Označení gladiátorů je odvozeno od zbraně jménem gladius, což je:",
+        "answer_a": "luk",
+        "answer_b": "dýka",
+        "answer_c": "meč",
+        "correct_answer": 2,
+        "snapshot": "snap_67_89.jpg"
+    },
+    {
+        "question": "Jak se jmenuje vítězný kůň historicky první Velké pardubické? Jedná se rovněž o koně na prvním políčku hry Dostihy a sázky.",
+        "answer_a": "Fantome",
+        "answer_b": "Gavorá",
+        "answer_c": "Melák",
+        "correct_answer": 0,
+        "snapshot": "snap_67_90.jpg"
+    },
+    {
+        "question": "Při výrobě parfémů se často používá ambra. 0 co se jedná?",
+        "answer_a": "0 výměšek vorvaně",
+        "answer_b": "o výtažek z ambrozie",
+        "answer_c": "0 vonné dřevo",
+        "correct_answer": 0,
+        "snapshot": "snap_67_91.jpg"
+    },
+    {
+        "question": "Ze které země pochází hudební skladatel Edvard Grieg?",
+        "answer_a": "z Norska",
+        "answer_b": "z Německa",
+        "answer_c": "ze Švýcarska",
+        "correct_answer": 0,
+        "snapshot": "snap_67_92.jpg"
+    },
+    {
+        "question": "Poupata které květiny byla jako první vypěstována na palubě orbitální stanice?",
+        "answer_a": "růže",
+        "answer_b": "tulipánu",
+        "answer_c": "karafiátu",
+        "correct_answer": 1,
+        "snapshot": "snap_67_93.jpg"
+    },
+    {
+        "question": "Zdobená obruč vyráběná americkými Indiány z vrbového proutí a zvířecích šlach se nazývá...",
+        "answer_a": "lapač snů",
+        "answer_b": "lapač štěstí",
+        "answer_c": "lapač prachu",
+        "correct_answer": 0,
+        "snapshot": "snap_67_94.jpg"
+    },
+    {
+        "question": "Ve které zemi vznikl olympijský sport Taekwondo?",
+        "answer_a": "v Japonsku",
+        "answer_b": "v Číně",
+        "answer_c": "v Koreji",
+        "correct_answer": 2,
+        "snapshot": "snap_67_95.jpg"
+    },
+    {
+        "question": "Kdy přebíral ve starověké Spartě výchovu chlapců stát?",
+        "answer_a": "když dorostli svou matku",
+        "answer_b": "vletech",
+        "answer_c": "když udrželi meč",
+        "correct_answer": 1,
+        "snapshot": "snap_67_96.jpg"
+    },
+    {
+        "question": "Jak se jmenoval brněnský silák, herec a bavič, člen souboru Husa na provázku?",
+        "answer_a": "Franta Kocourek",
+        "answer_b": "Jindra Hrdlička",
+        "answer_c": "Pepa Slavíček",
+        "correct_answer": 0,
+        "snapshot": "snap_67_97.jpg"
+    },
+    {
+        "question": "Co neobvyklého dělají mláďata rejsků, aby je matka neztratila z dohledu?",
+        "answer_a": "vozí se jí na zádech |",
+        "answer_b": "vždy některá panáčkují",
+        "answer_c": "drží se navzájem ocasů",
+        "correct_answer": 2,
+        "snapshot": "snap_67_98.jpg"
+    },
+    {
+        "question": "Ve kterém městě najdeme středověkou Bránu Matky Boží?",
+        "answer_a": "v Jihlavě",
+        "answer_b": "ve Zlíně",
+        "answer_c": "v Plzní",
+        "correct_answer": 0,
+        "snapshot": "snap_67_99.jpg"
+    },
+    {
+        "question": "Které místo ve starověkém Řecku představovala agora?",
+        "answer_a": "veřejné shromaždiště",
+        "answer_b": "dějiště olympiády",
+        "answer_c": "věštírnu",
+        "correct_answer": 0,
+        "snapshot": "snap_67_100.jpg"
+    },
+    {
+        "question": "První film s odvážným archeologem Indiana Jonesem je z roku 1981 a nese podtitul:",
+        "answer_a": "Dobyvatelé ztracené archy",
+        "answer_b": "Chrám zkázy",
+        "answer_c": "Království křišťálové lebky",
+        "correct_answer": 0,
+        "snapshot": "snap_67_101.jpg"
+    },
+    {
+        "question": "V kolik hodin v písní Muzeum odjíždí Jaromír Nohavica jednou z pravidelných linek sedm zastávek do Kateřinek?",
+        "answer_a": "ved:l5",
+        "answer_b": "v5:d5",
+        "answer_c": "v",
+        "correct_answer": 1,
+        "snapshot": "snap_67_102.jpg"
+    },
+    {
+        "question": "Sekt s označením brut bude nejspíše:",
+        "answer_a": "suchý",
+        "answer_b": "polosladký",
+        "answer_c": "sladký",
+        "correct_answer": 0,
+        "snapshot": "snap_67_103.jpg"
+    },
+    {
+        "question": "Jak se jmenuje neandrtálec, kterého Mach a Šebestová dovedli z pravěku?",
+        "answer_a": "pan Bum",
+        "answer_b": "pan Rumí",
+        "answer_c": "pan Čuml",
+        "correct_answer": 0,
+        "snapshot": "snap_67_104.jpg"
+    },
+    {
+        "question": "Ve které zemi je úředním jazykem paštunština?",
+        "answer_a": "v Afghánistánu",
+        "answer_b": "v Maroku",
+        "answer_c": "v Peru",
+        "correct_answer": 0,
+        "snapshot": "snap_67_105.jpg"
+    },
+    {
+        "question": "Kde najdeme látku kapsaicin?",
+        "answer_a": "V paprice",
+        "answer_b": "v melounu",
+        "answer_c": "V ananasu",
+        "correct_answer": 0,
+        "snapshot": "snap_67_106.jpg"
+    },
+    {
+        "question": "Pro kterého z těchto sportovců byly olympijské hry Tokio 2020 ty vůbec první?",
+        "answer_a": "pro Adama Ondru",
+        "answer_b": "pro Jiřího Prskavce",
+        "answer_c": "pro Davida Kosteleckého",
+        "correct_answer": 0,
+        "snapshot": "snap_67_107.jpg"
+    },
+    {
+        "question": "Ve kterém moři najdete souostroví Kyklady?",
+        "answer_a": "v Jónském",
+        "answer_b": "v Egejském",
+        "answer_c": "v Jaderském",
+        "correct_answer": 1,
+        "snapshot": "snap_67_108.jpg"
+    },
+    {
+        "question": "Džínové kalhoty původně sloužily jako oděv:",
+        "answer_a": "kovbojů",
+        "answer_b": "zlatokopů",
+        "answer_c": "lí",
+        "correct_answer": 1,
+        "snapshot": "snap_67_109.jpg"
+    },
+    {
+        "question": "Na kterém z uvedených kontinentů nenajdeme volně žijící medvědy?",
+        "answer_a": "v Jižní Americe",
+        "answer_b": "v Austrálii",
+        "answer_c": "v Asii",
+        "correct_answer": 1,
+        "snapshot": "snap_96_110.jpg"
+    },
+    {
+        "question": "Doplňte původně anglické úsloví: Když ti dá život citrony...",
+        "answer_a": "netvař se kysele",
+        "answer_b": "udělej z nich limonádu",
+        "answer_c": "mrskní je po nepříteli",
+        "correct_answer": 1,
+        "snapshot": "snap_96_111.jpg"
+    },
+    {
+        "question": "Která z těchto německých spolkových zemí má hranice s Českem?",
+        "answer_a": "Sasko",
+        "answer_b": "Sasko-Anhaltsko",
+        "answer_c": "Sársko",
+        "correct_answer": 0,
+        "snapshot": "snap_96_112.jpg"
+    },
+    {
+        "question": "Kolik z dvanácti znamení tradičního astrologického zvěrokruhu je pojmenováno podle zvířete?",
+        "answer_a": "pět",
+        "answer_b": "sedm",
+        "answer_c": "deset",
+        "correct_answer": 1,
+        "snapshot": "snap_96_113.jpg"
+    },
+    {
+        "question": "Jacgues-Yves Cousteau byl nejen filmařem, ale také slavným francouzským:",
+        "answer_a": "návrhářem",
+        "answer_b": "architektem",
+        "answer_c": "oceánografem",
+        "correct_answer": 2,
+        "snapshot": "snap_96_114.jpg"
+    },
+    {
+        "question": "Název které suroviny má kořeny v latinském označení skály?",
+        "answer_a": "petroleje",
+        "answer_b": "mědi",
+        "answer_c": "vosku",
+        "correct_answer": 0,
+        "snapshot": "snap_96_115.jpg"
+    },
+    {
+        "question": "V roce 2018 získal Darwinovu cenu nešťastně zamilovaný mladík, který skočil do řeky za svou dívkou, aby ji utopil. Na co zapomněl?",
+        "answer_a": "neuměl plavat",
+        "answer_b": "řeka byla mělká",
+        "answer_c": "měl těžký batoh",
+        "correct_answer": 0,
+        "snapshot": "snap_96_116.jpg"
+    },
+    {
+        "question": "Na kterém náměstí v Praze najdeme Faustův dům?",
+        "answer_a": "na Staroměstském |",
+        "answer_b": "na Malostranském",
+        "answer_c": "na Karlově",
+        "correct_answer": 2,
+        "snapshot": "snap_96_117.jpg"
+    },
+    {
+        "question": "Která česká zpěvačka se jako navigátorka zúčastnila Dakarské rallye?",
+        "answer_a": "Marta Jandová",
+        "answer_b": "Olga Lounová",
+        "answer_c": "Klára Vytisková",
+        "correct_answer": 1,
+        "snapshot": "snap_96_118.jpg"
+    },
+    {
+        "question": "Ve které sci-fi komedii si Oldřich Kaiser a Petr Nárožný vymění identity?",
+        "answer_a": "Já nejsem já",
+        "answer_b": "Ty nejsi ty",
+        "answer_c": "On není on",
+        "correct_answer": 0,
+        "snapshot": "snap_96_119.jpg"
+    },
+    {
+        "question": "Který zvláštní útvar je k nalezení na kopci u obce Mořinka?",
+        "answer_a": "sopečný kráter",
+        "answer_b": "novodobý ménhir",
+        "answer_c": "kamenný maják",
+        "correct_answer": 1,
+        "snapshot": "snap_96_120.jpg"
+    },
+    {
+        "question": "Lagos je největším městem které země?",
+        "answer_a": "Keni",
+        "answer_b": "Namíbie",
+        "answer_c": "Nigérie",
+        "correct_answer": 2,
+        "snapshot": "snap_96_121.jpg"
+    },
+    {
+        "question": "Co by nepřipraveného strávníka mohlo překvapit na rybě jehlici rohozobé?",
+        "answer_a": "má dva rohy",
+        "answer_b": "má tři oči",
+        "answer_c": "má zelené kosti",
+        "correct_answer": 2,
+        "snapshot": "snap_96_122.jpg"
+    },
+    {
+        "question": "Letní boty na rovné podrážce vyrobené z tkaniny a provazu z určité trávy se nazývají:",
+        "answer_a": "espadrilky",
+        "answer_b": "kristusky",
+        "answer_c": "baleriny",
+        "correct_answer": 0,
+        "snapshot": "snap_96_123.jpg"
+    },
+    {
+        "question": "Ondřej Sekora je známý hlavně jako spisovatel. Byl ale též průkopníkem kterého sportu na našem území?",
+        "answer_a": "vodního póla",
+        "answer_b": "pozemního hokeje",
+        "answer_c": "ragby",
+        "correct_answer": 2,
+        "snapshot": "snap_96_124.jpg"
+    },
+    {
+        "question": "Ondřej Sekora je známý hlavně jako spisovatel. Byl ale též průkopníkem kterého sportu na našem území?",
+        "answer_a": "vodního póla",
+        "answer_b": "pozemního hokeje",
+        "answer_c": "ragby",
+        "correct_answer": 2,
+        "snapshot": "snap_96_125.jpg"
+    },
+    {
+        "question": "Kterou z krevních skupin nemůže mít potomek rodičů s krevními skupinami AB a A?",
+        "answer_a": "",
+        "answer_b": "",
+        "answer_c": "",
+        "correct_answer": 2,
+        "snapshot": "snap_96_126.jpg"
+    },
+    {
+        "question": "Která osobnost spojená s Divadlem Járy Cimrmana vymyslela anketu Zlatý slavík?",
+        "answer_a": "Ladislav Smoljak",
+        "answer_b": "Zdeněk Svěrák",
+        "answer_c": "Jaroslav Uhlíř",
+        "correct_answer": 0,
+        "snapshot": "snap_96_127.jpg"
+    },
+    {
+        "question": "Doplňte název románu Honoré de Balzaca: Lesk a bída...",
+        "answer_a": "kurtizán",
+        "answer_b": "monarchie",
+        "answer_c": "velkoměsta",
+        "correct_answer": 0,
+        "snapshot": "snap_96_128.jpg"
+    },
+    {
+        "question": "V roce 1979 došlo v basketbalové NBA k důležité změně pravidel. Co bylo nově zavedeno?",
+        "answer_a": "time-outy",
+        "answer_b": "možnost střídání",
+        "answer_c": "hody za tři body",
+        "correct_answer": 2,
+        "snapshot": "snap_96_129.jpg"
+    },
+    {
+        "question": "Ve kterém filmu Zdeňka Trošky můžete vidět postavu čarodějnice Žofie či hejkala Huga?",
+        "answer_a": "Princezna ze mlejná",
+        "answer_b": "1 pekla štěstí",
+        "answer_c": "Strašidla",
+        "correct_answer": 2,
+        "snapshot": "snap_96_130.jpg"
+    },
+    {
+        "question": "Pláž Navagio s vrakem pašerácké lodi leží na kterém řeckém ostrově?",
+        "answer_a": "na Krétě",
+        "answer_b": "na Rhodosu",
+        "answer_c": "na Zakynthosu",
+        "correct_answer": 2,
+        "snapshot": "snap_96_131.jpg"
     }
 ]
